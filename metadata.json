@@ -1,0 +1,8 @@
+{
+  "name": "Remix: DRAGON VIP",
+  "description": "High-end prediction utility application featuring modern dark luxury design, activation key journey, Apple of Fortune game predictions, and high-performance glassmorphism interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
